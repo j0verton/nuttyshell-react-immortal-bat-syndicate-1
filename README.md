@@ -1,4 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses JSON server, React, React Router DOM, and React Semantic UI
+
+create an "api" directory in the root directory of the project and create a file 'database.json'
+
+to start the project with some example data, download this file and add it to your api directory 
+...
+
+To to run the project:
+
+Clone this repository,
+
+cd into the directory
+
+Install the necessary packages: npm install
+
+npm install react react-dom react-router-dom
+
+npm install -g json-server
+
+Once you have created the file and directory, and installed JSON server, React, and React Router DOM run json-server -w database.json -p 8088 in the project's API directory.
 
 ## Available Scripts
 

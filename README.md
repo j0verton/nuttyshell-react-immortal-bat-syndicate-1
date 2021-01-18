@@ -1,3 +1,6 @@
+
+![nutshellScreen](./nut-react-screenshot.JPG)
+
 This project uses JSON server, React, React Router DOM, and React Semantic UI
 
 create an "api" directory in the root directory of the project and create a file 'database.json'

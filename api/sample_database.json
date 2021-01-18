@@ -1,0 +1,401 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Sully",
+            "email": "me@me.com",
+            "zip": 37080
+        },
+        {
+            "id": 2,
+            "username": "Jeff",
+            "email": "Jeff@jeffityjeff.com",
+            "zip": 37080
+        },
+        {
+            "id": 3,
+            "username": "Sue",
+            "email": "sue_1982317@aol.com",
+            "zip": 37080
+        },
+        {
+            "username": "joe",
+            "email": "joe@joe.com",
+            "id": 4,
+            "zip": 37080
+        },
+        {
+            "email": "sue@me.com",
+            "name": "Uptown party",
+            "username": "sue123",
+            "id": 5
+        },
+        {
+            "email": "jeff@jeff.com",
+            "name": "Jeff JeffJEff",
+            "username": "jeffjeff",
+            "id": 6
+        }
+    ],
+    "messages": [
+        {
+            "userId": 3,
+            "message": "SSSSSwing and a miss",
+            "date": "Tue Sep 29 2020 19:16:05 GMT-0500 (Central Daylight Time)",
+            "id": 1
+        },
+        {
+            "userId": 4,
+            "message": "@Sully: hey Sully! what's it been 5 seasons?",
+            "date": "Wed Sep 30 2020 09:19:12 GMT-0500 (Central Daylight Time)",
+            "id": 6,
+            "targetId": 1
+        },
+        {
+            "id": 7,
+            "userId": 1,
+            "message": "hi!!!!!!",
+            "date": "edited: 10/12/2020, 11:37:07 AM"
+        },
+        {
+            "userId": 1,
+            "message": "hi",
+            "date": "10/12/2020, 11:32:35 AM",
+            "id": 8
+        },
+        {
+            "id": 9,
+            "userId": 2,
+            "message": "hi",
+            "date": "edited: 10/13/2020, 11:53:06 AM"
+        },
+        {
+            "userId": 2,
+            "message": "whaddup",
+            "date": "10/13/2020, 11:53:15 AM",
+            "id": 10
+        },
+        {
+            "userId": 2,
+            "message": "whaddup",
+            "date": "10/13/2020, 11:53:23 AM",
+            "id": 11
+        },
+        {
+            "userId": 1,
+            "message": "hi!",
+            "date": "edited: 10/14/2020, 11:43:02 AM",
+            "id": 12
+        },
+        {
+            "userId": 1,
+            "message": "hi",
+            "date": "10/13/2020, 11:58:43 AM",
+            "id": 13
+        },
+        {
+            "userId": 1,
+            "message": "@Sue hi",
+            "date": "10/14/2020, 9:45:22 AM",
+            "targetId": 3,
+            "id": 14
+        },
+        {
+            "userId": 1,
+            "message": "Nomah!!!!!",
+            "date": "10/14/2020, 10:36:45 AM",
+            "id": 15
+        },
+        {
+            "userId": 1,
+            "message": "hello world",
+            "date": "10/14/2020, 11:43:29 AM",
+            "id": 16
+        },
+        {
+            "userId": 1,
+            "message": "@Sue hi",
+            "date": "10/14/2020, 11:43:56 AM",
+            "targetId": 3,
+            "id": 17
+        },
+        {
+            "userId": 1,
+            "message": "@jeff hi",
+            "date": "10/14/2020, 11:44:29 AM",
+            "targetId": 2,
+            "id": 18
+        },
+        {
+            "userId": 1,
+            "message": "@jeffjeff hi",
+            "date": "10/14/2020, 11:44:50 AM",
+            "targetId": 6,
+            "id": 19
+        },
+        {
+            "userId": 1,
+            "message": "@jeffjeff hi",
+            "date": "10/14/2020, 11:45:05 AM",
+            "targetId": 6,
+            "id": 20
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "The Past and Future of the Baseball Bat",
+            "date": "2020-10-12T16:52:15.740Z",
+            "synopsis": "finally bats getting the recognition they deserve",
+            "url": "https://www.smithsonianmag.com/arts-culture/the-past-and-future-of-the-baseball-bat-5618957/"
+        },
+        {
+            "id": 2,
+            "userId": 4,
+            "title": "Baseball bat - wikipedia",
+            "date": "2020-10-12T16:52:12.993Z",
+            "synopsis": "someone oughta improve this, it doesnt quite capture the majesty of the bat",
+            "url": "https://en.wikipedia.org/wiki/Baseball_bat"
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "title": "Wood turning instrction",
+            "date": "2020-10-12T20:06:10.962Z",
+            "synopsis": "I think I'm gonna start building a bat of my own",
+            "url": "http://www.woodturningonline.com/projects.php?catid=9"
+        },
+        {
+            "userId": 2,
+            "title": "National Collegiate Athletic Association Standard for Testing Baseball Bat Performance",
+            "date": "2020-10-12T20:06:22.478Z",
+            "synopsis": "Is it just me or have our standards really been going down hill",
+            "url": "https://www.acs.psu.edu/drussell/bats/besr/2006_certification_protocol.pdf",
+            "id": 4
+        },
+        {
+            "userId": 1,
+            "title": "Physics and Acoustics of Baseball and Softball Bats",
+            "date": "2020-10-14T03:32:40.072Z",
+            "synopsis": "See its Science...",
+            "url": "https://web.archive.org/web/20070920190241/http://www.kettering.edu/~drussell/bats.html",
+            "id": 5
+        },
+        {
+            "userId": 6,
+            "title": "Bats are so great!",
+            "date": "2020-10-14T16:40:57.571Z",
+            "synopsis": "Its really just about bats",
+            "url": "bats.com",
+            "id": 6
+        }
+    ],
+    "friends": [
+        {
+            "activeUserId": 4,
+            "userId": 2,
+            "id": 10
+        },
+        {
+            "userId": 3,
+            "activeUserId": 4,
+            "id": 13
+        },
+        {
+            "activeUserId": 3,
+            "userId": 2,
+            "id": 14
+        },
+        {
+            "userId": 3,
+            "activeUserId": 3,
+            "id": 16
+        },
+        {
+            "activeUserId": 4,
+            "userId": 1,
+            "id": 72
+        },
+        {
+            "activeUserId": 1,
+            "userId": 2,
+            "id": 75
+        },
+        {
+            "activeUserId": 2,
+            "userId": 1,
+            "id": 76
+        },
+        {
+            "activeUserId": 1,
+            "userId": 3,
+            "id": 77
+        },
+        {
+            "activeUserId": 3,
+            "userId": 1,
+            "id": 78
+        },
+        {
+            "activeUserId": 1,
+            "userId": 4,
+            "id": 79
+        },
+        {
+            "activeUserId": 4,
+            "userId": 1,
+            "id": 80
+        },
+        {
+            "activeUserId": 6,
+            "userId": 1,
+            "id": 81
+        },
+        {
+            "activeUserId": 1,
+            "userId": 6,
+            "id": 82
+        },
+        {
+            "activeUserId": 6,
+            "userId": 3,
+            "id": 83
+        },
+        {
+            "activeUserId": 3,
+            "userId": 6,
+            "id": 84
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "userId": 1,
+            "task": "Take out garbage",
+            "complete": false,
+            "targetDate": "12-12-2020"
+        },
+        {
+            "id": 2,
+            "userId": 3,
+            "task": "",
+            "complete": false,
+            "targetDate": "12-20-2020"
+        },
+        {
+            "id": 3,
+            "userId": 2,
+            "task": "Take out garbage",
+            "complete": false,
+            "targetDate": "12-29-2020"
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "task": "",
+            "complete": false,
+            "targetDate": "12-29-2020"
+        },
+        {
+            "userId": "4",
+            "task": "practice woodturning",
+            "date": "2020-10-01",
+            "completed": true,
+            "id": 5
+        },
+        {
+            "userId": 3,
+            "task": "do some Stuff",
+            "date": "2020-09-30",
+            "completed": false,
+            "id": 6
+        },
+        {
+            "task": "take out trash",
+            "date": "2020-10-22",
+            "userId": 1,
+            "completed": true,
+            "id": 7
+        },
+        {
+            "task": "buy a bat",
+            "date": "2020-10-14",
+            "userId": 1,
+            "completed": true,
+            "id": 9
+        }
+    ],
+    "events": [
+        {
+            "id": 2,
+            "name": "going to the game",
+            "date": "2020-10-13",
+            "address": "12 happy st",
+            "city": "Lousiville",
+            "state": "KY",
+            "zip": 40018,
+            "userId": 1
+        },
+        {
+            "id": 1,
+            "name": "favorite bat dress up party",
+            "date": "12-12-2020",
+            "address": "213123 blarg st.",
+            "city": "Lousiville",
+            "state": "KY",
+            "zip": 40018,
+            "userId": 2
+        },
+        {
+            "userId": 2,
+            "name": "favorite bat dress up party",
+            "date": "2020-09-29",
+            "address": "awqe",
+            "city": "nashville",
+            "state": "TN",
+            "zip": 37206,
+            "id": 3
+        },
+        {
+            "userId": 2,
+            "name": "tour the louisvie slugger factory",
+            "date": "2020-10-01",
+            "address": "342 rgdfg sT",
+            "city": "nashville",
+            "state": "TN",
+            "zip": 37206,
+            "id": 4
+        },
+        {
+            "userId": 3,
+            "name": "bat game",
+            "date": "2020-10-01",
+            "address": "awqe",
+            "city": "nasThville",
+            "state": "TN",
+            "zip": 37206,
+            "id": 5
+        },
+        {
+            "name": "going to the game",
+            "date": "2020-10-23",
+            "address": "2890 that one st",
+            "city": "Nashville",
+            "state": "TN",
+            "zip": "34453",
+            "userId": 1,
+            "id": 6
+        },
+        {
+            "name": "Favorite bat dress up party",
+            "date": "2020-10-16",
+            "address": "2890 that one st",
+            "city": "Nashville",
+            "state": "TN",
+            "zip": "37206",
+            "userId": 1,
+            "id": 7
+        }
+    ]
+}
